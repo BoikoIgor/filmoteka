@@ -9,3 +9,5 @@ import './js/modal-team';
 import './js/open-modal';
 import './js/firebase';
 import './js/neon-cursor';
+
+import './js/add-to-watched-queue';

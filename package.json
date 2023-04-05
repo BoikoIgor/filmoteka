@@ -2,20 +2,20 @@
   "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://qwimik.github.io/filmoteka",
+  "homepage": "https://boikoigor.github.io/filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qwimik/filmoteka.git"
+    "url": "git+https://github.com/BoikoIgor/filmoteka.git"
   },
   "keywords": [],
-  "author": "Goit Group11 <qwimik@gmail.com>",
+  "author": "Goit Group11 <igorboiko@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qwimik/filmoteka/issues"
+    "url": "https://github.com/BoikoIgor/filmoteka/issues"
   },
   "dependencies": {
     "@splidejs/splide": "^4.1.4",
